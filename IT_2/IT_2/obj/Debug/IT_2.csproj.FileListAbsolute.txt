@@ -1,0 +1,27 @@
+C:\Users\Дмитрий\Desktop\IT_2\IT_2\bin\Debug\IT_2.exe.config
+C:\Users\Дмитрий\Desktop\IT_2\IT_2\bin\Debug\IT_2.exe
+C:\Users\Дмитрий\Desktop\IT_2\IT_2\bin\Debug\IT_2.pdb
+C:\Users\Дмитрий\Desktop\IT_2\IT_2\obj\Debug\IT_2.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\IT_2\IT_2\obj\Debug\IT_2.Form1.resources
+C:\Users\Дмитрий\Desktop\IT_2\IT_2\obj\Debug\IT_2.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\IT_2\IT_2\obj\Debug\IT_2.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\IT_2\IT_2\obj\Debug\IT_2.exe
+C:\Users\Дмитрий\Desktop\IT_2\IT_2\obj\Debug\IT_2.pdb
+G:\university\ТК\3 курс\IT_2\IT_2\bin\Debug\IT_2.exe.config
+G:\university\ТК\3 курс\IT_2\IT_2\bin\Debug\IT_2.exe
+G:\university\ТК\3 курс\IT_2\IT_2\bin\Debug\IT_2.pdb
+G:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.csprojAssemblyReference.cache
+G:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.Form1.resources
+G:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.Properties.Resources.resources
+G:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.csproj.GenerateResource.cache
+G:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.exe
+G:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.pdb
+E:\university\ТК\3 курс\IT_2\IT_2\bin\Debug\IT_2.exe.config
+E:\university\ТК\3 курс\IT_2\IT_2\bin\Debug\IT_2.exe
+E:\university\ТК\3 курс\IT_2\IT_2\bin\Debug\IT_2.pdb
+E:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.csprojAssemblyReference.cache
+E:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.Form1.resources
+E:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.Properties.Resources.resources
+E:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.csproj.GenerateResource.cache
+E:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.exe
+E:\university\ТК\3 курс\IT_2\IT_2\obj\Debug\IT_2.pdb
